@@ -37,6 +37,7 @@ def get_filters():
     day = ''
 
     print('Hello! Let\'s explore some US bikeshare data!\n')
+    print('We\'ll be analyzing through some descriptive statistics some bikeshare data from Chicago, New York City or Washington provided by the company Motivate\n')
     # get user input for city (chicago, new york city, washington). HINT: Use a while loop to handle invalid inputs
     while not (city == 'chicago' or city == 'new york city' or city == 'washington'):
         city = (input('Would you like to see data for Chicago, New York City or Washington?\n')).lower()
