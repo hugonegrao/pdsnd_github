@@ -9,7 +9,37 @@ US Bikeshare Data Final Project - Udacity's Programming for Data Science with Py
 ### Description
 In this project, we will explore data provided by Motivate (a bike share system provider) related to bike share systems for three major cities in the United States: Chicago, New York City, and Washington.
 
-This work was made in Python creating an interactive experience in the terminal in order to discover bike share usage patterns using a variety of descriptive statistics.
+This work was made in Python creating an interactive experience in the terminal in order to discover bike share usage patterns using a variety of descriptive statistics, such as:
+
+#1 Popular times of travel (i.e., occurs most often in the start time) 
+
+- most common month 
+
+- most common day of week 
+
+- most common hour of day 
+
+#2 Popular stations and trip 
+
+- most common start station 
+
+- most common end station 
+
+- most common trip from start to end (i.e., most frequent combination of start station and end station) 
+
+#3 Trip duration 
+
+- total travel time 
+
+- average travel time 
+
+#4 User info
+
+- counts of each user type 
+
+- counts of each gender 
+
+- earliest, most recent, most common year of birth 
 
 ### Files used
 - bikeshare.py 
