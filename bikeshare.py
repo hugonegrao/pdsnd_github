@@ -294,6 +294,8 @@ def main():
 
         restart = input('\nWould you like to restart? Enter yes or no.\n')
         if not (restart.lower() == 'yes' or restart.lower() == 'ye' or restart.lower() == 'y'):
+            print('Thank you for using this script')
+            time.sleep(3)
             break
 
 
